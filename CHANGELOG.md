@@ -1,5 +1,9 @@
 # Change Log
 =============
+## v1.3.4
+ - Customising the survey modal
+ - New callbacks that pass the placement identifier
+
 ## v1.3.3
 - Fix offer check - Android
 
