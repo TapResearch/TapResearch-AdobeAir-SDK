@@ -1,5 +1,5 @@
 # AdobeAir-TapResearch
-TapResearch AdobeAir SDK v1.3.4
+TapResearch AdobeAir SDK v1.3.5
 
 ## Setup
 

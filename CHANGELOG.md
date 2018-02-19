@@ -1,5 +1,9 @@
 # Change Log
 =============
+## v1.3.5
+- Fix passing a unique user identifier - iOS
+- Fix isSurveyAvailableForIdentifier
+
 ## v1.3.4
  - Customising the survey modal
  - New callbacks that pass the placement identifier
