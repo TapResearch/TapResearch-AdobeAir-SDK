@@ -1,5 +1,10 @@
 # Change Log
 =============
+
+## v2.0.0
+* Introducing TRPlacement to evaluate availability and to display the survey wall
+* Introducing TRReward to handle in app rewards
+
 ## v1.3.5
 - Fix passing a unique user identifier - iOS
 - Fix isSurveyAvailableForIdentifier
