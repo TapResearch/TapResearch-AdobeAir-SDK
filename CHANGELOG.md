@@ -1,6 +1,11 @@
 # Change Log
 =============
 
+## v2.0.1
+* Send a placement response when the SDK isn't ready
+* Support Pure Spectrum surveys
+* Bug fixes
+
 ## v2.0.0
 * Introducing TRPlacement to evaluate availability and to display the survey wall
 * Introducing TRReward to handle in app rewards
